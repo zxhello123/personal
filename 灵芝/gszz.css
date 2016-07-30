@@ -1,0 +1,157 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.clear:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.all{
+	height: 656px;
+	background-image: url(gszz.png);
+}
+.head{
+	width: 100%;
+	height: 34px;
+	background-color: #010102;
+}
+.head ul{
+	display: inline-block;
+	list-style: none;
+	width: 979px;
+	margin-left: 192px;
+	
+}
+.head .li1{
+	margin-left: 0px;
+}
+.head li{
+	float: left;
+	margin-left:39px;
+	font-size: 10px;
+	line-height: 34px;
+	font-family: "microsoft yahei";
+}
+.head li a{
+	color: white;
+	text-decoration: none;
+}
+.content {
+	width: 979px;
+	margin: auto;
+}
+.content span{
+	display:inline-block;
+	margin-top: 30px;
+	color: white;
+	font-family: "microsoft yahei";
+	font-size: 18px;
+	padding-bottom: 20px;
+}
+.center{
+	margin-top: 27px;
+	height: 415px;
+	width: 979px;
+}
+.c1{
+	width:185px; 
+	height:199px;
+	background-color: #fff;
+}
+.clt{
+	width: 167px;
+	height: 154px;
+	background-image: url(26.png);
+	background-repeat: no-repeat;
+	/*border-bottom: 1px #000 solid;*/
+	margin: auto;
+
+}
+.c1 .span1{
+	display: inline-block;
+	width: 185px;
+	height: 34px;
+	margin-top: 11px;
+	border-top: 1px #000 solid;
+	text-align: center;
+	line-height: 34px;
+	color: black;
+	font-size: 12px;
+}
+.content .ull{
+	margin-top: 25px;
+}
+.content ul li{
+	list-style: none;
+	float: left;
+	margin-right: 10px;
+}
+.c2t{
+	width: 186px;
+	height: 165px;
+	background-image: url(27.png);
+	background-repeat: no-repeat;
+	margin: auto;
+
+}
+.c3t{
+	width: 167px;
+	height: 154px;
+	background-image: url(28.png);
+	background-repeat: no-repeat;
+	margin: auto;
+
+}
+.c4t{
+	width: 187px;
+	height: 169px;
+	background-image: url(29.png);
+	background-repeat: no-repeat;
+	margin: auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+	height: 52px;
+	color: #999;
+	font-size: 10px;
+
+}
+.footer a{
+	text-decoration: none;
+	color: #999;
+}
+.footer ul{
+	display: inline-block;
+	list-style: none;
+	width:979px;
+	margin-left: 192px;
+	line-height: 52px;
+}
+.footer li{
+	float: left;
+	margin-left:5px;
+	font-size: 10px;
+	line-height: 52px;
+	color: #666;
+	font-family: "microsoft yahei";
+}
+.footer .li1{
+	margin-left: 0px;
+}
+.footer .li2{
+	margin-left: 13px;
+}

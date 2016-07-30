@@ -1,0 +1,153 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.all{
+    width: 100%;
+    background-color: #09070e;
+}
+.clear:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.head{
+	width: 100%;
+	height: 34px;
+	background-color: #010102;
+}
+ul{
+	display: inline-block;
+	list-style: none;
+	width: 979px;
+	margin-left: 192px;
+	
+}
+.li1{
+	margin-left: 0px;
+}
+li{
+	float: left;
+	margin-left:39px;
+	font-size: 10px;
+	line-height: 34px;
+	font-family: "microsoft yahei";
+}
+li a{
+	color: white;
+	text-decoration: none;
+}
+.content {
+	width: 979px;
+	height: 867px;
+	margin:30px auto;
+	background-color: #f5f5f5;
+	position: relative;
+}
+.c1{
+	width: 95px;
+	height: 24px;
+	background-color: #cb00da;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+	text-align: center;
+	line-height: 25px;
+}
+.c1 span{
+	color: #fff;
+	font-family: "microsoft yahei";
+	font-size: 14px;
+	
+}
+.c2{
+	width: 951px;
+	height: 805px;
+	background-image: url(gsjj.png);
+	position:absolute;
+	top: 49px;
+	left: 9px;
+}
+.c21{
+	width: 869px;
+	height: 239px;
+	background-image: url(cj.png);
+	margin: 20px auto;
+}
+.c22{
+	width:910px;
+	height: 209px;
+}
+.c22_1{
+	float: left;
+	width: 568px;
+	height: 209px;
+	margin-left:41px;
+	
+}
+p{
+	text-indent:20px;
+	display: inline-block;
+    font-size: 10px; 
+    color: #3b3b3b;
+    margin-top: 3px;
+}
+.c22_2{
+	float: left;
+	width: 279px;
+	height: 200px;
+	background-image: url(gsjj1.png);
+	margin-left: 22px;
+}
+.c3{
+	width: 910px;
+	height: 195px;
+	margin-top: 10px;
+}
+.c31{
+	float: left;
+	width: 423px;
+	height: 200px;
+	background-image: url(gajj2.png);
+	margin-left: 40px;
+}
+.c32{
+	float: left;
+	width: 423px;
+	height: 200px;
+	background-image: url(gsjj3.png);
+	margin-left: 24px;
+}
+
+
+.footer{
+	height: 52px;
+	color: #999;
+	font-size: 10px;
+	background-color: #fff;
+
+}
+.footer a{
+	color: #999;
+}
+.footer ul{
+	display: inline-block;
+	list-style: none;
+	width:979px;
+	margin-left: 192px;
+	line-height: 52px;
+}
+.footer li{
+	float: left;
+	margin-left:5px;
+	font-size: 10px;
+	line-height: 52px;
+	color: #666;
+	font-family: "microsoft yahei";
+}
+.footer .li1{
+	margin-left: 0px;
+}
+.footer .li2{
+	margin-left: 13px;
+}
